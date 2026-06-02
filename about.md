@@ -1,6 +1,8 @@
+---
 layout: "page"
 title: "About"
 permalink: "/about"
+---
 
 # About
 Robin Naughton, Ph.D. is Deputy Chief Librarian, and Assistant Professor, Web and Digital Services Librarian for the Queens College Library (QCL), CUNY. She is also Coordinator of User Experience (UX) and is responsible for the library website, systems, and digital services.
