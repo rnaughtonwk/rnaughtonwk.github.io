@@ -1,2 +1,2 @@
-# rnaughtonwk.github.io
-A Portfolio Site
+# Project Lab
+A site focused on testing ideas and different projects. 
